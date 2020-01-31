@@ -1,6 +1,6 @@
 React Swapi
 
-- finished lesson 54
+- finished lesson 56
 
 - https://swapi.co
 
